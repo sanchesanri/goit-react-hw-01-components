@@ -15,12 +15,11 @@
 }
 
 .online{
+    margin-right: 10px;
     color:#c9a2a2;
 }
 
 .icon{
-    color: inherit;
-    margin-right: 10px;
     color: rgb(121, 179, 131);
 }
 
